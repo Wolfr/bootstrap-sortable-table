@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap-sortable-table",
+  "version": "1.0.0",
+  "authors": [
+    "Johan Ronsse <wolf@wolfslittlestore.be>"
+  ],
+  "description": "Sortable table component for bootstrap extending on default styles (CSS only)",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+}
